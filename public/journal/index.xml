@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Journals on Genevieve&#39;s Journal</title>
+    <link>http://localhost:1313/blogletters/journal/</link>
+    <description>Recent content in Journals on Genevieve&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>genevieve@grand_archive.abs (Genevieve Cayley)</managingEditor>
+    <webMaster>genevieve@grand_archive.abs (Genevieve Cayley)</webMaster>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogletters/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Invitation</title>
+      <link>http://localhost:1313/blogletters/journal/greetings/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><author>genevieve@grand_archive.abs (Genevieve Cayley)</author>
+      <guid>http://localhost:1313/blogletters/journal/greetings/</guid>
+      <description>It seems I&amp;#39;ve been invited to Lord Kiordan&amp;#39;s Grand Masquerade, for mysterious and of course undisclosed reasons. I was briefly tempted to refuse, but this is hardly an opportunity one can pass up. And besides, it has been a long time since I last passed through Geb. Too long, perhaps.</description>
+      <content:encoded><![CDATA[<p>It seems I&#39;ve been invited to Lord Kiordan&#39;s Grand Masquerade, for mysterious and of course undisclosed reasons. I was briefly tempted to refuse, but this is hardly an opportunity one can pass up. And besides, it has been a long time since I last passed through Geb. Too long, perhaps.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

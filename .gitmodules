@@ -1,0 +1,15 @@
+[submodule "hugo-bearcub"]
+	path = hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "themes/bearcub"]
+	path = themes/bearcub
+	url = https://github.com/clente/hugo-bearcub.git
+[submodule "themes/color-your-world"]
+	path = themes/color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "themes/red-rose"]
+	path = themes/red-rose
+	url = https://github.com/httpsecure/hugo-theme-red-rose
+[submodule "themes/cat"]
+	path = themes/cat
+	url = https://github.com/httpsecure/hugo-cat

@@ -1,0 +1,29 @@
+baseURL = 'https://vivianwilde.github.io/blogletters/'
+languageCode = 'en-us'
+title = "Genevieve's Journal"
+theme = 'bearcub'
+author = 'Genevieve Cayley'
+paginate=50
+
+[params]
+# author = 'Genevieve Cayley'
+description = "Adventures and Intrigues at the Grand Masquerade"
+avatar = 'avatar.jpg'
+[params.author]
+name = "Genevieve Cayley" # Your name as shown in the RSS feed metadata
+email = "genevieve@grand_archive.abs"
+
+[[menu.main]]
+name = "Journal"
+url = "/journal"
+weight = 1
+[[menu.main]]
+name = "About"
+title = "About"
+url = "/about"
+weight = 2
+
+[pagination]
+  # disableAliases = false
+  pagerSize = 50
+  path = 'page'
