@@ -8,29 +8,15 @@
     <language>en-us</language>
     <managingEditor>genevieve@grand_archive.abs (Genevieve Cayley)</managingEditor>
     <webMaster>genevieve@grand_archive.abs (Genevieve Cayley)</webMaster>
-    <lastBuildDate>Mon, 29 Jul 2024 12:26:21 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blogletters/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
-      <link>http://localhost:1313/blogletters/journal/second/</link>
-      <pubDate>Mon, 29 Jul 2024 12:26:21 -0700</pubDate><author>genevieve@grand_archive.abs (Genevieve Cayley)</author>
-      <guid>http://localhost:1313/blogletters/journal/second/</guid>
-      <description>Hello World </description>
-      <content:encoded><![CDATA[<h1 id="hello-world">Hello World</h1>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/blogletters/journal/first/</link>
+      <title>An Invitation</title>
+      <link>http://localhost:1313/blogletters/journal/greetings/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><author>genevieve@grand_archive.abs (Genevieve Cayley)</author>
-      <guid>http://localhost:1313/blogletters/journal/first/</guid>
-      <description> First Post </description>
-      <content:encoded><![CDATA[
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-First Post
-</h2>
-</div>
+      <guid>http://localhost:1313/blogletters/journal/greetings/</guid>
+      <description>It seems I&amp;#39;ve been invited to Lord Kiordan&amp;#39;s Grand Masquerade, for mysterious and of course undisclosed reasons. I was briefly tempted to refuse, but this is hardly an opportunity one can pass up. And besides, it has been a long time since I last passed through Geb. Too long, perhaps.</description>
+      <content:encoded><![CDATA[<p>It seems I&#39;ve been invited to Lord Kiordan&#39;s Grand Masquerade, for mysterious and of course undisclosed reasons. I was briefly tempted to refuse, but this is hardly an opportunity one can pass up. And besides, it has been a long time since I last passed through Geb. Too long, perhaps.</p>
 ]]></content:encoded>
     </item>
     <item>
