@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogletters/journal/greetings/</loc>
+    <loc>https://vivianwilde.github.io/blogletters/</loc>
+    <lastmod>2024-08-10T15:44:13-07:00</lastmod>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/</loc>
+    <lastmod>2024-08-10T15:44:13-07:00</lastmod>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/2024-08-10/</loc>
+    <lastmod>2024-08-10T15:44:13-07:00</lastmod>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/2024-08-07/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/greetings/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogletters/</loc>
-    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+    <loc>https://vivianwilde.github.io/blogletters/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/blogletters/journal/</loc>
-    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+    <loc>https://vivianwilde.github.io/blogletters/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blogletters/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blogletters/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blogletters/tags/</loc>
+    <loc>https://vivianwilde.github.io/blogletters/tags/</loc>
   </url>
 </urlset>

@@ -2,12 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Genevieve&#39;s Journal</title>
-    <link>http://localhost:1313/blogletters/categories/</link>
+    <link>https://vivianwilde.github.io/blogletters/categories/</link>
     <description>Recent content in Categories on Genevieve&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>genevieve@grand_archive.abs (Genevieve Cayley)</managingEditor>
-    <webMaster>genevieve@grand_archive.abs (Genevieve Cayley)</webMaster>
-    <atom:link href="http://localhost:1313/blogletters/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vivianwilde.github.io/blogletters/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -11,7 +11,6 @@ description = "Adventures and Intrigues at the Grand Masquerade"
 avatar = 'avatar.jpg'
 [params.author]
 name = "Genevieve Cayley" # Your name as shown in the RSS feed metadata
-email = "genevieve@grand_archive.abs"
 
 [[menu.main]]
 name = "Journal"
