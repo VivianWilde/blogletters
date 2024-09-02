@@ -17,10 +17,15 @@ name = "Journal"
 url = "/journal"
 weight = 1
 [[menu.main]]
+name = "Quest Threads"
+title = "Quest Threads"
+url = "/threads"
+weight = 2
+[[menu.main]]
 name = "About"
 title = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 [pagination]
   # disableAliases = false

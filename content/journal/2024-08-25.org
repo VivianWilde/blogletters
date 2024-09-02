@@ -1,0 +1,150 @@
+---
+title: A Lodge on Ashland Street
+date: 2024-08-25T16:22:07-07:00
+draft: false
+---
+* Geisthall
+- We have shrinking/growing intradimensional wardrobes
+- It's like the purses, but it can expand/shrink
+- We can only enlarge it thrice a day, and only shrink it thrice a day
+- I have one of the baby portals
+** For Edalyn
+- An object from before the Nex/Geb war
+- A gift from an archmage's lieutenant to a bloodlord
+- It lets vampires eat food
+** For Fennec
+- Bitter Retort, a ranged revolver which deals +1d4 damage if you insult someone along with the attack
+** Talking to the house
+I missed this part
+** Truenaming
+- Thulvia has some people in the Alchemists' Citadel who might know what's up
+* Bat and Mouse
+- Mouse is crazy and anti-vampire, and insane
+- Bat is chill and not a vampire
+** Mosquito Witch (Rumors)
+- Powerful vampire who uses mosquitos to harvest blood
+- Priestess/cultist of some evil god
+* Thulvia
+- It's basically a country. We're
+- Alchemist's Citadel: School, library, stronghold
+- Elixir of the Sun Orchid: Immortality potion
+- Could it be useful in undoing vampirism?
+- A master alchemist has lived here for 500 years (so may remember things)
+- Lives in the deepest level of the citadel
+- Margaret thinks she remembers someone who works there?
+** Things to do
+- Get in there via Grand Archive connections
+- Ask about the curse
+- Ask about memories and the holes they leave
+- Curse shop
+- Ask about the house
+*** Sun Orchid
+- If we could get a sun orchid elixir, it'd be helpful for Margaret's project
+- Issue: They manufacture one every decade or so
+** Black markets
+- Could we get a Sun Orchid this way?
+- Constant plans to kidnap the alchemist and get the recipe
+- Some rumors these attempts are government-sponsored, since the government wants hands on the alchemist who created it
+- Allegedly there is no elixir formula, since it'd be dangerous. It's just in the Alchemist's head.
+- ... Which I can reach into
+* Thulvia, In The Flesh
+- The citadel is not as big as we expect from the outside.
+- The citadel isn't bigger on the inside, just underground. And the underground part extends far out, even 30 minutes from the main building we're still walking around there.
+- Thulvia is incredibly hot in the summer, underground avoids heat and desert monsters.
+- Also makes the citadel a better stronghold.
+- Quest: Get some books on kineticism.
+** Search list
+- Margaret's friend DONE
+- Truenames DONE
+- House IGNORE
+- Memories EMAILED
+- Religious Curses TODO (Absalom)
+** Lecture: Truenames
+- Eccentric eefrit writing on a chalkboard
+- Professor Sandbridge
+- They've journeyed across the planes
+- Words of power: Words that tap into certain aspects of reality, truenames are words of power associated with entities
+- Where does the power invested in these words come from?
+- The realm of the fae (realm of the eldest) is where truenames originate
+- In this realm, words of power are enhanced
+- Words of Power are restricted to those of extraordinary power in our world, but not in the realm of the fae
+- If you see your own true name, you will recognise it, even if you don't know what that means
+- It's possible but not likely to learn a truename from reading the mind of someone who knows it
+- She gave us her mailing adress and a booklist
+*** Finding Out a Truename
+- You need to learn your truename to become a Lich
+- To understand X's truename - it hinges on X being able to discover their own name
+- Inscribing your own truename strengthens you by connecting you to the magic of the world.
+- A word of power is deeper than the lettering. To speak it is to feel at the essence of reality and punch a hole through which to bring that word forth.
+- Inscribing your name on something is basically keeping that hole open
+- Some wizards inscribe it inside an arcane focus
+- Names as a bargaining chip: Devotees of gods will offer up their true name as a show of devotion, which can provide amounts of power, at the risk of a data leak.
+- Weilding a truename: Exert control, issue commands, cause them to cower in fear, even undo their existence (handcuffs, anyone?)
+*** Changing Truenames
+- Not something for mere mortals, at least not now.
+* Zyzyx Fuckery
+- Heist gone wrong
+- Stole the ingredients Margaret needed
+- Including several handheld flammable alchemical reagents (hand grenades)
+* Edalyn and Margaret
+- Margaret looks morose
+- Genevieve was right, it was the alchemist!
+- It was sad, apparently
+- But who cares. That will not stop Genevieve from showing off how smart she is. In fact nothing will.
+- Stimulus like pictures and places will help Margaret recall memories.
+- Perhaps finding more places she's been, and/or more of her friends (like the ones she was meant to see at the manor)
+* Ending
+- I healed up Iggly (but not Zyzyx)
+- Character moments of Edalyn making a little mini-bed for Mouse, and Zyzyx giving Mouse a gold coin
+
+** More Research
+*** Memories
+Inspired by realising colleagues and business cards exist, do I have any colleagues/professional acquaintances (in Absalom or in the Citadel) who I could reach out to via mail or whatever about memories?
+OOC: If you want me to just drop this line of inquiry or it's not going anywhere, let me know and I'll stop being annoying about it.
+
+- I'm looking into ways to recover pieces of erased memories (analogy: Ways to recover fragments of deleted info off a hard drive)
+- Cover story: Scouting a future research project.
+- My recent research was on mental hardening, i.e resisting mental damage, I'm interested in going a step further and undoing it.
+- This is probably hubris, but I'd love to be able to undo damage caused by religious/divine intervention. If you know anything about how the hell (if you pardon the pun) we could even go about that.
+- Send them details on the slate from my loredumps
+- Don't say I have it, just that I've been researching it.
+- How does thing in particular mess with memories?
+- Tell them what I know about the effects of the slate. For instance:
+    - Everything I've got from loredumps you gave wi
+    - It doesn't have a /complete/ effect on documents, just on memories
+    - The maker of the wish remembers stuff, it's possible they can select a few people to remember stuff as well (or perhaps they just tell those people)
+    - It's been used several times by the same person, which shouldn't be possible normally. The magic seems saturated.
+**** Actual Letter
+Hey <Name>,
+
+Sorry to keep doing this to you, but I got a bug in my brain about a potential research direction and it seems like it'd be up your alley.
+I'm looking into ways to recover pieces of erased memories (OOC analogy: Ways to recover fragments of deleted info off a hard drive). My recent research was on mental hardening, i.e resisting mental damage, I'm interested in going a step further and undoing it. Might be a fun research project (and a fun collaboration if you want, once I'm back from sabbatical...)
+I'm thinking of basically picking a particular form of memory erasure, and putting together a proof-of-concept exploit that undoes it, even just partially.
+
+I figure the first step in that is identifying the means by which memories were erased, by examining the holes they left in the brain. Any tips on if this is possible and how you'd do it.
+The second probably involves inducing the brain to fill the holes in naturally - exposure to the right stimuli, etc. Are there any reliable or especially effective ways to do this? I remember I read once that smells are especially evocative of memories, but that might just be apocryphal
+
+This is probably hubris, but I'd love to be able to undo damage caused by religious/divine intervention. If you know anything about how the hell (pardon the pun) we could even go about that.
+In particular there's a sort of "test case" I found that I'm kind of curious about, a religious artifact that rewrites/erases memories. I stumbled across it in a book <cite the book I found in Okenno>, and I've been researching how it messes with minds.
+
+<Send them details on the slate from my loredumps (i.e what you've given me from my lore checks. I'm very carefully not mentioning that I have it>
+Some other things I know about it:
+  - It doesn't have a /complete/ effect on documents, just on memories
+  - The maker of the wish remembers stuff, it's possible they can select a few people to remember stuff as well (or perhaps they just tell those people)
+  - This is just a rumor so it could be false (and probably is) but it's been recently used several times by the same person, which shouldn't be possible normally.
+
+Thanks for putting up with this, I can't wait to hear what you think.
+
+PS: I'm kind of away from any good libraries right now - if there are any books you recommend on this could you just send me copies? Send the bill as well, I promise I'll reimburse you
+
+Your fellow mad scientist,
+Genevieve Cayley
+
+*** Curses/Religion
+- Grandmother Spider: Gaining and losing her favor - how, and what does she do?
+- If it's safe, show them the tablet
+- What is the nature of the curse?
+- What would happen if someone used this
+- Removing the curse?
+- Motivations
+- Are there layers of manipulations? My hypothesis is that there's some magical tampering from a talented mortal, and then a curse in response to that. Can you judge from this how likely that is?

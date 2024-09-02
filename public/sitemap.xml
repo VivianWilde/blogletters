@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/2024-09-01/</loc>
+    <lastmod>2024-09-01T12:26:43-07:00</lastmod>
+  </url><url>
     <loc>https://vivianwilde.github.io/blogletters/</loc>
-    <lastmod>2024-10-31T15:20:17-07:00</lastmod>
+    <lastmod>2024-09-01T12:26:43-07:00</lastmod>
   </url><url>
     <loc>https://vivianwilde.github.io/blogletters/journal/</loc>
-    <lastmod>2024-10-31T15:20:17-07:00</lastmod>
+    <lastmod>2024-09-01T12:26:43-07:00</lastmod>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/journal/2024-08-25/</loc>
+    <lastmod>2024-08-25T16:22:07-07:00</lastmod>
   </url><url>
     <loc>https://vivianwilde.github.io/blogletters/journal/2024-08-18/</loc>
     <lastmod>2024-08-18T15:20:17-07:00</lastmod>
@@ -23,6 +29,8 @@
     <loc>https://vivianwilde.github.io/blogletters/about/</loc>
   </url><url>
     <loc>https://vivianwilde.github.io/blogletters/categories/</loc>
+  </url><url>
+    <loc>https://vivianwilde.github.io/blogletters/threads/</loc>
   </url><url>
     <loc>https://vivianwilde.github.io/blogletters/tags/</loc>
   </url>
