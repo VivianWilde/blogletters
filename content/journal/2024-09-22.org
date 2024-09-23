@@ -24,7 +24,7 @@ draft: false
 * Loredump
 - Margaret figured out a cure,
 - Had it redacted from her memory
-- She figured out a cure, a way to reject Zura's gift
+- She figured out a cure, a way to reject Zura's gift. The secret is stored in Margaret's "second laboratory"
 - As punishment, Kiordan chose her to become the avatar of Zura
 - She escaped before that was completed
 - All but two lost their memory of Margaret and of the cure
