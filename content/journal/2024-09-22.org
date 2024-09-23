@@ -1,5 +1,5 @@
 ---
-title: Stories of Lastwall
+title: To Lastwall
 date: 2024-09-22T15:12:34-07:00
 draft: false
 ---
@@ -33,6 +33,8 @@ draft: false
 - So almost certainly all are the slate
 - We did the mind-dive thing.
 - One word: "Lastwall".
+- The only other person who remembers Margaret is someone close to her - wife/qpp/???. They're still around. 
+- Margaret has a way to contact her, via a spirit ritual with Lyn's help. 
 ** Lastwall
 - It blew up eleven years ago.
 - Destroyed by the Lich-king Tarbafon
@@ -50,8 +52,25 @@ draft: false
 - Nomble is waiting when we return to the house
 - Genevieve gets into an argument about how the House knows geography
 - Nomble wants to know where we're going
+* Steyr
+- Small city
+- Portraits and mosaics of heroes of (place) 
+- Outskirts are quiet, but commotion from deeper in.
+- Some kind of angry mob.
+- militaristic, worried about spies, so harsh on black markets
+- People have been going missing at night
+- Monsters in the old farmhouse.
+- Bodies of victims have been found, so not turning a mass army
+** Farmhouse
+- 4 guards
+- Waiting for something
+- Sounds of someone in pain
+- dried blood stains
+- growling sound
+- Mouse got grabbed by a vampiric catfolk
+- It's Felicity.
+- Fennec got a nat 20 to get her to calm down, then Genevieve did a mental balm.
+- We got her back to the house, she's probably recovering from bloodrage
 * Next Stop
 - Grace, a town in Ustalov
 - Just outside the gravelands
-* New Next Stop
-- Steyr, to save Fennec's wife
