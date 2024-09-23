@@ -53,5 +53,5 @@ draft: false
 * Next Stop
 - Grace, a town in Ustalov
 - Just outside the gravelands
-
--
+* New Next Stop
+- Steyr, to save Fennec's wife
