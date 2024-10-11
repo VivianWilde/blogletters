@@ -1,5 +1,5 @@
 ---
-title: Stories of Lastwall
+title: To Lastwall
 date: 2024-09-22T15:12:34-07:00
 draft: false
 ---
@@ -52,11 +52,6 @@ draft: false
 - Nomble is waiting when we return to the house
 - Genevieve gets into an argument about how the House knows geography
 - Nomble wants to know where we're going
-* Next Stop
-- Grace, a town in Ustalov
-- Just outside the gravelands
-* Actual Next Stop
-- Steyr, to save Fennec's wife
 * Steyr
 - Small city
 - Portraits and mosaics of heroes of (place) 
@@ -73,4 +68,9 @@ draft: false
 - dried blood stains
 - growling sound
 - Mouse got grabbed by a vampiric catfolk
--
+- It's Felicity.
+- Fennec got a nat 20 to get her to calm down, then Genevieve did a mental balm.
+- We got her back to the house, she's probably recovering from bloodrage
+* Next Stop
+- Grace, a town in Ustalov
+- Just outside the gravelands
