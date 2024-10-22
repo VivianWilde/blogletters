@@ -17,5 +17,5 @@ draft: true
 - so they're good guy paladins, roughly.
 - crimson oath.
 - Plan: Fennec will talk to them, try to get access and sneak us in. 
-- 
-- 
+-
+-
